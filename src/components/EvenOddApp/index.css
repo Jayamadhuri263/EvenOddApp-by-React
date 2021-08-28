@@ -1,0 +1,33 @@
+.container {
+  background-image: linear-gradient(to bottom, #ff6e7f, #bfe9ff);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.heading {
+  font-size: 40px;
+  font-weight: 600;
+  margin-bottom: 30px;
+  color: #0f172a;
+}
+.button {
+  background-color: white;
+  color: black;
+  padding: 7px;
+  border-radius: 7px;
+  border-width: 0;
+  margin-bottom: 5px;
+  width: 120px;
+  cursor: pointer;
+  outline: none;
+}
+.para {
+  color: #334155;
+  font-size: 20px;
+}
+.description {
+  color: #334155;
+  font-size: 15px;
+}
